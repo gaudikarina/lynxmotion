@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 36
+srv_gen
+nbproject
+bin
+build
+msg_gen
+
+END

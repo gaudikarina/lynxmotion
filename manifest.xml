@@ -1,0 +1,21 @@
+<package>
+  <description brief="lynxmotion">
+
+     lynxmotion
+
+  </description>
+  <author>Gaudi, Ariel, Orangel</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/lynxmotion</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+
+  <versioncontrol type="svn" url="https://svn.code.sf.net/p/ec6515sep2011/code/trunk"/>
+
+
+
+</package>
+
+
